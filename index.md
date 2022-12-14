@@ -10,7 +10,7 @@ My GitHub page is http://github.com/cjgernade.
 
 * Lab 2
 
-    Lab 2, parts 1-3 was a favorite because it was a memorable experience becuase this was the first time i leanred how to "actually code." I've learned the basics of HTML and CSS, but coding this way was an entirely new language. I like how I was able to learn how to edit a poorly structured code and form of knowledge with how to clone a git repository from GitHub and make changes to it. I had no idea how to execute it before or how to fix my errors.
+    Lab 2, parts 1-3 was a favorite because it was a memorable experience becuase this was the first time i learned how to "actually code." I've learned the basics of HTML and CSS, but coding this way was an entirely new language. I like how I was able to learn how to edit a poorly structured code and form of knowledge with how to clone a git repository from GitHub and make changes to it. I had no idea how to execute it before or how to fix my errors.
 
 * Lab 6
 
